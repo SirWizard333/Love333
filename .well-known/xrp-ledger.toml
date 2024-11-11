@@ -1,0 +1,27 @@
+ [[ISSUERS]]
+address = "rH2BLHBoUbeJeCuZJHLaLdnLBDtkhNmx9k"
+name = "Love333"
+
+[[TOKENS]]
+issuer = "rH2BLHBoUbeJeCuZJHLaLdnLBDtkhNmx9k"
+currency = "ILU"
+name = "Love333"
+desc = "Love333 (ILU) is a digital currency, developed specifically to bring unconditional love and support to the New Earth."
+icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://Love333.io"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://x.com/Love333Coin"
+type = "socialmedia"
+
+[[TOKENS.WEBLINKS]]
+url = "https://instagram.com/Love333Coin"
+type = "socialmedia"
+
+[[TOKENS.WEBLINKS]]
+url = "https://tiktok.com/@Love333Coin"
+type = "socialmedia"
