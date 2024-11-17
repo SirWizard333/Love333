@@ -25,3 +25,17 @@ type = "socialmedia"
 [[TOKENS.WEBLINKS]]
 url = "https://tiktok.com/@Love333Coin"
 type = "socialmedia"
+
+[METADATA]
+description = "Love333 (ILU) Token"
+name = "Love333"
+icon = "https://cdn.shopify.com/s/files/1/0632/7700/7028/files/l3c2_c44c3b38-3d96-4c1e-85ba-38dd65c2e90c.png?v=1731685019"
+
+[NETWORK]
+network = "mainnet"
+
+[CURRENCIES]
+[[CURRENCIES]]
+code = "ILU"
+issuer = "rH2BLHBoUbeJeCuZJHLaLdnLBDtkhNmx9k"
+icon = "https://cdn.shopify.com/s/files/1/0632/7700/7028/files/l3c2_c44c3b38-3d96-4c1e-85ba-38dd65c2e90c.png?v=1731685019"
